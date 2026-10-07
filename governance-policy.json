@@ -1,0 +1,11 @@
+{
+  "version": "1.1",
+  "status": "Local demonstration policy; not institutional approval",
+  "owner": "Local operator",
+  "data": "Fixed synthetic EAD fixtures and registered local aggregate LGD research reports; no loan-level data sent to AI providers",
+  "allowed_tools": ["evidence", "ead", "lgd_compare"],
+  "allowed_case_ids": ["amortization", "approved_draws", "commitment_breach", "invalid_balance"],
+  "max_memory_ttl_seconds": 86400,
+  "live_provider_enabled": false,
+  "human_review": "A local user may acknowledge review. The agent cannot approve models, change source code or make lending decisions."
+}

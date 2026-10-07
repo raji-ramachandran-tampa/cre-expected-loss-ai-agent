@@ -1,0 +1,13 @@
+data/
+work/
+.venv/
+venv/
+__pycache__/
+.env
+.env.*
+*.log
+*.sqlite*
+*.parquet
+*.joblib
+*.zip
+demo-evidence.json
